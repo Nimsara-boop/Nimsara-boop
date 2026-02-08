@@ -1,10 +1,11 @@
-# Hi 👋 I'm Nimsara
+# I build real world solutions.
 
-I build real world solutions.
+Hi 👋 I'm Nimsara Karunaratne. 
 
-My passion is for building mobile and web platforms that address real-world problems I encounter, combining my computing and business knowledge to create meaningful solutions.
+I am passionate in building mobile and web platforms that address real-world problems I encounter, combining my computing and business knowledge to create meaningful solutions.
 
-🎓 Entrepreneurially minded Computer Science student
+### Here is a little about me 
+🎓 Entrepreneurial minded Computer Science student
 💻 Learning Fullstack Development, Machine Learning, Cloud Computing and more!
 🚀 Building projects with JavaScript, Node.js, Java, Python and Supabase  
 
