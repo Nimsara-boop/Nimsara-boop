@@ -1,4 +1,31 @@
-## Hi there 👋
+# Hi 👋 I'm Nimsara
+
+I build real world solutions.
+
+My passion is for building mobile and web platforms that address real-world problems I encounter, combining my computing and business knowledge to create meaningful solutions.
+
+🎓 Entrepreneurially minded Computer Science student
+💻 Learning Fullstack Development, Machine Learning, Cloud Computing and more!
+🚀 Building projects with JavaScript, Node.js, Java, Python and Supabase  
+
+I am currently working on expanding my knowledge on Mobile Application Development.
+
+
+### 🔧 Technologies
+- JavaScript
+- Node.js
+- Git & GitHub
+- React (learning)
+  
+### ☁️ Cloud & DevOps
+- AWS (EC2, S3 – learning)
+- Microsoft Azure (Fundamentals)
+
+
+### 📫 Connect with me
+- GitHub: https://github.com/Nimsara-boop
+- LinkedIn: https://www.linkedin.com/in/nimsara-karunaratne-531561332/
+
 
 <!--
 **Nimsara-boop/Nimsara-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
