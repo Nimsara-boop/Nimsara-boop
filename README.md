@@ -18,7 +18,7 @@ I am currently working on expanding my knowledge on Mobile Application Developme
 - React (learning)
   
 ### ☁️ Cloud & DevOps
-- AWS (EC2, S3 – learning)
+- Amazon AWS (EC2, S3 – learning)
 - Microsoft Azure (Fundamentals)
 
 
