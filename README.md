@@ -24,7 +24,7 @@ I am currently working on expanding my knowledge on Mobile Application Developme
 
 
 ### 📫 Connect with me
-- GitHub: https://github.com/Nimsara-boop
+- E-mail: nimsarakarunaratne@gmail.com
 - LinkedIn: https://www.linkedin.com/in/nimsara-karunaratne-531561332/
 
 
