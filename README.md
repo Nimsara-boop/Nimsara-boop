@@ -1,8 +1,8 @@
-# I build real world solutions.
+# I create real world solutions.
 
 Hi 👋 I'm Nimsara Karunaratne. 
 
-I am passionate in building mobile and web platforms that address real-world problems I encounter, combining my computing and business knowledge to create meaningful solutions.
+I am passionate in finding executable solutions and building mobile and web platforms that address real-world problems I encounter, combining my computing and business knowledge to create meaningful solutions.
 
 ### Here is a little about me 
 🎓 Entrepreneurial minded Computer Science student
