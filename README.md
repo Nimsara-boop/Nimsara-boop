@@ -25,7 +25,7 @@ I am currently working on expanding my knowledge on Mobile Application Developme
 
 ### 📫 Connect with me
 - E-mail: nimsarakarunaratne@gmail.com
-- LinkedIn: https://www.linkedin.com/in/nimsara-karunaratne-531561332/
+- LinkedIn: https://www.linkedin.com/in/nimsara-hasini-karunaratne-531561332/
 
 
 <!--
