@@ -21,6 +21,10 @@ I am currently working on expanding my knowledge on Mobile Application Developme
 ### ☁️ Cloud & DevOps
 - Amazon AWS (EC2, S3 – learning)
 - Microsoft Azure (Fundamentals)
+- Github CI/CD
+- Ansible
+- Docker
+- Kubernetes
 
 
 ### 📫 Connect with me
